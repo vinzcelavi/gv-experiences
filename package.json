@@ -12,6 +12,7 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "gsap": "^3.13.0",
     "modern-normalize": "^3.0.1"
   }
 }
